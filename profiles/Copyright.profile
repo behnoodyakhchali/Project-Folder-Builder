@@ -1,4 +1,0 @@
-Documents
-Render
-Text
-Licenses
