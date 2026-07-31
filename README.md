@@ -1,4 +1,5 @@
 # Project Folder Builder
+![Project Folder Builder](screenshots/main-menu.png)
 
 Create reusable project folder structures using customizable profiles.
 
@@ -41,6 +42,14 @@ Material
 Video
 Recorded
 
+---
+
+## Demo
+
+Run the application:
+
+```bash
+./folderbuilder.sh
 
 ---
 
