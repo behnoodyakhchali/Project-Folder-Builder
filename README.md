@@ -1,5 +1,5 @@
 # Project Folder Builder
-![Project Folder Builder](screenshots/main-menu.png)
+![Project Folder Builder](screenshots/in-menu.pngma)
 
 Create reusable project folder structures using customizable profiles.
 
